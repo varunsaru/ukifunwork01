@@ -247,6 +247,733 @@ $(document).ready(function() {
       });
 
 });
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/215764028',function(sound){
+    $('#start12').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop12').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/301355614',function(sound){
+    $('#start13').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop13').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/101728459',function(sound){
+    $('#start14').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop14').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/278002889',function(sound){
+    $('#start15').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop15').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/202631934',function(sound){
+    $('#start16').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop16').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/258143092',function(sound){
+    $('#start17').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop17').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/310640631',function(sound){
+    $('#start18').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop18').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/217488631',function(sound){
+    $('#start19').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop19').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/57626150',function(sound){
+    $('#start20').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop20').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/216287653',function(sound){
+    $('#start21').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop21').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/267845557',function(sound){
+    $('#start22').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop22').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/280247816',function(sound){
+    $('#start23').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop23').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/293003275',function(sound){
+    $('#start24').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop24').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/338564706',function(sound){
+    $('#start25').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop25').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/138327935',function(sound){
+    $('#start26').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop26').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/303313697',function(sound){
+    $('#start27').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop27').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/169680187',function(sound){
+    $('#start28').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop28').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/291757958',function(sound){
+    $('#start29').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop29').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/338564706',function(sound){
+    $('#start30').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop30').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/299951148',function(sound){
+    $('#start31').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop31').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/481834080',function(sound){
+    $('#start32').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop32').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/237118392',function(sound){
+    $('#start33').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop33').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/294959160',function(sound){
+    $('#start34').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop34').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/193350993',function(sound){
+    $('#start35').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop35').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/343189423',function(sound){
+    $('#start36').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop36').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/340959117',function(sound){
+    $('#start37').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop37').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/341595337',function(sound){
+    $('#start38').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop38').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/275169623',function(sound){
+    $('#start39').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop39').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/343188583',function(sound){
+    $('#start40').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop40').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/338981617',function(sound){
+    $('#start41').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop41').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/198309068',function(sound){
+    $('#start42').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop42').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/339860569',function(sound){
+    $('#start43').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop43').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/343189207',function(sound){
+    $('#start44').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop44').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/275931209',function(sound){
+    $('#start45').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop45').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/198309068',function(sound){
+    $('#start46').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop46').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
+SC.initialize({
+  client_id: '340f063c670272fac27cfa67bffcafc4'
+});
+
+$(document).ready(function() {
+
+  SC.stream('/tracks/11374267',function(sound){
+    $('#start47').click(function(e) {
+               e.preventDefault();
+               sound.start();
+             });
+
+    $('#stop47').click(function(e) {
+             e.preventDefault();
+             sound.stop();
+           });
+
+      });
+
+});
 (function($) {
 
 	var	$window = $(window),
