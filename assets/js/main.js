@@ -518,7 +518,7 @@ SC.initialize({
 
 $(document).ready(function() {
 
-  SC.stream('/tracks/338564706',function(sound){
+  SC.stream('/tracks/41624289',function(sound){
     $('#start25').click(function(e) {
                e.preventDefault();
                sound.start();
@@ -619,7 +619,7 @@ SC.initialize({
 
 $(document).ready(function() {
 
-  SC.stream('/tracks/338564706',function(sound){
+  SC.stream('/tracks/88382021',function(sound){
     $('#start30').click(function(e) {
                e.preventDefault();
                sound.start();
